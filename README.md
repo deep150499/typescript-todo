@@ -5,8 +5,6 @@ This project is built using [TypeScript and React](https://create-react-app.dev/
 
 ![App Image](./public/app-image.png)
 
-For a video tutorial, watch [this video on YouTube](https://www.youtube.com/watch?v=BUh12mwkH_8&t=677s)
-
 ## Available Scripts
 
 In the project directory, you can run:
